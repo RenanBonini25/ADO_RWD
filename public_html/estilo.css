@@ -1,0 +1,27 @@
+
+.margemImagem {
+    margin-top: 50px;
+}
+
+.margemTabs {
+    margin-top: 60px;
+}
+
+.margemP {
+    margin: 5px;
+}
+
+.labelForm {
+    font-size: 2em;
+    color: lightskyblue;
+}
+
+.mapa {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.botao {
+    margin-bottom: 20px;
+    float: right;
+}
